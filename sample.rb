@@ -1,1 +1,1 @@
-puts "hoge"
+puts "fuga"
